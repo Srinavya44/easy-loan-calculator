@@ -1,7 +1,7 @@
 # 💸 Easy Loan Calculator
 
 An interactive **loan calculator app** built with [Streamlit](https://streamlit.io/) and Python.  
-It helps you calculate **EMI**, view detailed **amortization schedules**, and track important **loan milestones**.
+It helps you calculate **EMI**, view detailed **amortization schedules**,compare **loan scenarios** with clear visuals and track important **loan milestones**.
 
 ---
 
